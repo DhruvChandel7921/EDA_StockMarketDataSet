@@ -6,8 +6,8 @@ This is an analysis performed using the Python programming language and its buil
 ![image](https://github.com/DhruvChandel7921/EDA_StockMarketDataSet/assets/105191579/0ba85767-60d9-445d-9fbd-ab516035cd64)
 ![image](https://github.com/DhruvChandel7921/EDA_StockMarketDataSet/assets/105191579/e0617892-43c6-4761-a79f-f66fea40fb96)
 # Observations:
-There are 21 unique industries which are listed in NIFTY-500.
-Financial Services Industry contributes more value counts.
-Forest Materials and Diversified industries have low value counts.
-Oil Gas and Consumable Fules Industry has the highest valuation followed by Metals & Publication Industry.
-Diversified Industry has lowest valuations followed by Textile Industry.
+- There are 21 unique industries which are listed in NIFTY-500.
+- Financial Services Industry contributes more value counts.
+- Forest Materials and Diversified industries have low value counts.
+- Oil Gas and Consumable Fules Industry has the highest valuation followed by Metals & Publication Industry.
+- Diversified Industry has lowest valuations followed by Textile Industry.
